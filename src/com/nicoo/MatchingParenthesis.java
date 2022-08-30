@@ -20,7 +20,6 @@ public class MatchingParenthesis {
         }
         return stack.isEmpty();
     }
-
     // Function for printing the output of the inputted cases.
     static void Print(){
         int x = 0;
@@ -45,6 +44,7 @@ public class MatchingParenthesis {
         Print();
     }
 }
+// github test push 1
 /*
 * Llosa, Eduardo Dominico F.
 * CC 13.1 B - DATA STRUCTURES AND ALGORITHMS
